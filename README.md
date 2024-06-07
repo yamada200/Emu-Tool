@@ -3,6 +3,7 @@
 ***ต้องการฟังชั่นอะไรขอมาได้ dis : yamada_rukaji
 
 #Request
+
 ติดตั้งpython : https://www.python.org/downloads/
 
 # How To Install
