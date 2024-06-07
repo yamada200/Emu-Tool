@@ -5,5 +5,7 @@
 ติดตั้งpython : https://www.python.org/downloads/
 # How To Install
 1.กดโหลดproject
+
 2.รันไฟล์setup.bat
+
 3.รันtool.py
