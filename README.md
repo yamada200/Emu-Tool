@@ -42,4 +42,4 @@ MumuLdplayer12,Memu.NoxPlayer,LDPlayer
 Discord : yamada_rukaji
 
 
-[![Watch the video]([https://streamable.com/ewy6wk](https://streamable.com/ewy6wk))]
+[![Watch the video]([[https://streamable.com/ewy6wk](https://streamable.com/ewy6wk?src=player-page-share)](https://streamable.com/ewy6wk))]
