@@ -1,7 +1,7 @@
 {
     "mumu_install_dir": "C:\\Program Files\\Netease\\MuMuPlayerGlobal-12.0\\shell",
     "vms_dir": "C:\\Program Files\\Netease\\MuMuPlayerGlobal-12.0\\vms",
-    "ADB_PATH": "adb",
+    "ADB_PATH": "adb\\adb",
     "PLACE_ID": "623823800",
     "CHECK_DELAY": 5,
     "SCREENSHOTS_DIR": "screenshots",
