@@ -50,7 +50,7 @@ Height 540
 DPI 160
 
 # Support
-Mumu player12,Memu,NoxPlayer,LDPlayer
+Mumu player12,Memu,NoxPlayer,LDPlayer,BlueStacks
 
 # Credit
 
