@@ -1,2 +1,2 @@
 pip install colorama
-pip install cv2
+pip install opencv-python
