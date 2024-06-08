@@ -36,7 +36,7 @@ Height 540
 DPI 160
 
 # Support
-MumuLdplayer12,Memu.NoxPlayer,LDPlayer
+Mumu player12,Memu,NoxPlayer,LDPlayer
 
 # Credit
 Discord : yamada_rukaji
