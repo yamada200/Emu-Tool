@@ -2,6 +2,10 @@
 กำลังทำเช็คuiตัวรันไม่ขื้นให้รีจอยใหม่ และเช็คerror ต่างๆ
 ***ต้องการฟังชั่นอะไรขอมาได้ ถ้าผมว่างทำนะ
 
+# คลิปสอนใช้
+
+https://streamable.com/ewy6wk
+
 # Request
 ติดตั้งpython : https://www.python.org/downloads/
 
