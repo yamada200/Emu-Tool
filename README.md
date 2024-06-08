@@ -10,6 +10,8 @@
 
 [*] Check UI Executor [Coming Soon]
 
+[*] Login Cookie [Coming Soon]
+
 [*] Add Workspace,Delete Workspace,Add Autoexec,Delete Autoexec [Coming Soon]
 
 [*] Sleeping Fat : Auto Close , Auto Login Cookie , Auto Rejoin [Coming Soon]
