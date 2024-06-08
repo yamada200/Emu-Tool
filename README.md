@@ -14,6 +14,10 @@
 
 3.รันtool.py
 
-# ตั้งค่า Mumu ของผม
+# ตั้งค่า Display
+Width 960
+Height 540
+DPI 160
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="rP81pgc"><a href="https://imgur.com/rP81pgc">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+
