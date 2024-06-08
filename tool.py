@@ -91,7 +91,7 @@ def check_app_running(emulator):
     except subprocess.CalledProcessError:
         return False
 
-def compare_images(screenshot_path, reference_image_paths, delay=2):
+def compare_images(screenshot_path, reference_image_paths, delay=5):
     screenshot = cv2.imread(screenshot_path)
     screenshot_gray = cv2.cvtColor(screenshot, cv2.COLOR_BGR2GRAY)
 
@@ -114,12 +114,18 @@ def compare_images(screenshot_path, reference_image_paths, delay=2):
     return False
 
 def get_reference_image_paths():
-    return ["img/Home_White_Eng.png",
-             "img/Home_Dark_Eng.png",
-             "img/Home_Mini_White_Eng.png",
-             "img/Home_Mini_Dark_Eng.png",
-             "img/Join_Error_Eng.png",
-             "img/Kick.png"
+    return ["img/Home_Dark_Thai.png",
+            "img/Home_Mini_Dark_Thai.png",
+            "img/Home_White_Thai.png",
+            "img/Home_Mini_White_Thai.png",
+            "img/Join_Error_Thai.png",
+            "img/Kick_Thai.png",
+            "img/Home_Dark_Eng.png",
+            "img/Home_Mini_Dark_Eng.png",
+            "img/Home_White_Eng.png",
+            "img/Home_Mini_White_Eng.png",
+            "img/Join_Error_Eng.png",
+            "img/Kick_Eng.png"
             ]
 
 if __name__ == "__main__":
