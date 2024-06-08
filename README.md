@@ -3,10 +3,15 @@
 ***ต้องการฟังชั่นอะไรขอมาได้ ถ้าผมว่างทำนะ
 # Function
 [+] Auto Rejoin
+
 [*] Auto Join Vip Server Link [Coming Soon]
+
 [*] Auto Hide Emu Low Cpu And Ram [Coming Soon]
+
 [*] Check UI Executor [Coming Soon]
+
 [*] Add Workspace,Delete Workspace,Add Autoexec,Delete Autoexec [Coming Soon]
+
 [*] Sleeping Fat : Auto Close , Auto Login Cookie , Auto Rejoin [Coming Soon]
 
 # คลิปสอนใช้
