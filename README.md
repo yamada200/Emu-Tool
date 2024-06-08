@@ -35,7 +35,7 @@ Width 960
 Height 540
 DPI 160
 
-#Support
+# Support
 MumuLdplayer12,Memu.NoxPlayer,LDPlayer
 
 # Credit
