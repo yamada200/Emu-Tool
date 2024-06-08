@@ -1,6 +1,6 @@
 # ห้ามนำsrc ไปรีสกินขาย
 กำลังทำเช็คuiตัวรันไม่ขื้นให้รีจอยใหม่ และเช็คerror ต่างๆ
-***ต้องการฟังชั่นอะไรขอมาได้ dis : yamada_rukaji
+***ต้องการฟังชั่นอะไรขอมาได้
 
 # Request
 ติดตั้งpython : https://www.python.org/downloads/
@@ -19,5 +19,6 @@ Width 960
 Height 540
 DPI 160
 
-
+# Credit
+Discord : yamada_rukaji
 
