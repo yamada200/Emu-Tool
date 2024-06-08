@@ -16,8 +16,6 @@
 
 # How To Useing Config
 
-{
-
     "mumu_install_dir": "C:\\Program Files\\Netease\\MuMuPlayerGlobal-12.0\\shell", --ที่อยู่shell ของmumu เพื่อใช้คำสั่งapi ได้
     "vms_dir": "C:\\Program Files\\Netease\\MuMuPlayerGlobal-12.0\\vms", --ที่อยู่vms หรึอหน้าจอของmumu เพื่อรับเอาport ของmumu แต่ละจอ
     "ADB_PATH": "adb", --ที่อยู่ของ Adb.exe สำหรับคนที่ใช้ Emulator อื่น จะAuto Connect localhost:port Adb ให้
@@ -26,7 +24,7 @@
     "SCREENSHOTS_DIR": "screenshots", --ที่อยู่โฟเดอร์ screenshots ใช้เพื่อแคปภาพจาก Emulator เพื่อตรวจสอบError หรึอ ตรวจสอบตัวรันไม่ขื้นแล้วให้rejoin roblox
     "RECHECK_COUNT": 2, --ปรับเวลาในการเช็คError หรึอ ตรวจสอบตัวรันไม่ขื้น หน่วยเป็นวินาที
     "check_counts": {}
-  }
+  
 
 # ตั้งค่า Display
 Width 960
