@@ -5,7 +5,7 @@
 # Request
 ติดตั้งpython : https://www.python.org/downloads/
 
-ตอนนี้รองรับแค่English ไม่รองรับ ภาษา Thai
+ตอนนี้รองรับแค่English ไม่รองรับ ภาษา Thai(กำลังทำให้รองรับRoblox ภาษาThai เร็วๆนี้)
 
 # How To Install
 1.กดโหลดproject
