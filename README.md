@@ -1,4 +1,4 @@
-# ห้ามนำsrc ไปรีสกินขาย
+![yamada-999-emotional-scenes](https://github.com/yamada200/Emu-Tool/assets/171811124/ffa5968a-30c2-40e6-a53e-80e64493b915)# ห้ามนำsrc ไปรีสกินขาย
 กำลังทำเช็คuiตัวรันไม่ขื้นให้รีจอยใหม่ และเช็คerror ต่างๆ
 ***ต้องการฟังชั่นอะไรขอมาได้ ถ้าผมว่างทำนะ
 
@@ -39,6 +39,8 @@ DPI 160
 Mumu player12,Memu,NoxPlayer,LDPlayer
 
 # Credit
+
 Discord : yamada_rukaji
 
-![Uploading yamada-999-emotional-scenes.gif…]()
+![yamada-999-emotional-scenes](https://github.com/yamada200/Emu-Tool/assets/171811124/19010579-0e28-4080-8349-beced9d08963)
+
