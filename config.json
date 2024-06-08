@@ -1,7 +1,10 @@
 {
-    "place_id": "623823800",
-    "ADB_PATH": "adb",
-    "CHECK_DELAY": 15,
     "mumu_install_dir": "C:\\Program Files\\Netease\\MuMuPlayerGlobal-12.0\\shell",
-    "vms_dir": "C:\\Program Files\\Netease\\MuMuPlayerGlobal-12.0\\vms"
-}
+    "vms_dir": "C:\\Program Files\\Netease\\MuMuPlayerGlobal-12.0\\vms",
+    "ADB_PATH": "adb",
+    "PLACE_ID": "623823800",
+    "CHECK_DELAY": 5,
+    "SCREENSHOTS_DIR": "screenshots",
+    "RECHECK_COUNT": 2,
+    "check_counts": {}
+  }
