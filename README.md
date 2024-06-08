@@ -15,5 +15,5 @@
 3.รันtool.py
 
 # ตั้งค่า Mumu ของผม
-https://imgur.com/rP81pgc
-https://imgur.com/wEPP21Q
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="rP81pgc"><a href="https://imgur.com/rP81pgc">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
