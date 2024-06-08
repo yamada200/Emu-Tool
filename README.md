@@ -13,3 +13,7 @@
 2.รันไฟล์setup.bat
 
 3.รันtool.py
+
+# ตั้งค่า Mumu ของผม
+https://imgur.com/rP81pgc
+https://imgur.com/wEPP21Q
