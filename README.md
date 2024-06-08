@@ -41,4 +41,4 @@ MumuLdplayer12,Memu.NoxPlayer,LDPlayer
 # Credit
 Discord : yamada_rukaji
 
-![image](https://streamable.com/ewy6wk?src=player-page-share)
+
