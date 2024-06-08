@@ -17,6 +17,7 @@
 # How To Useing Config
 
 {
+
     "mumu_install_dir": "C:\\Program Files\\Netease\\MuMuPlayerGlobal-12.0\\shell", --ที่อยู่shell ของmumu เพื่อใช้คำสั่งapi ได้
     "vms_dir": "C:\\Program Files\\Netease\\MuMuPlayerGlobal-12.0\\vms", --ที่อยู่vms หรึอหน้าจอของmumu เพื่อรับเอาport ของmumu แต่ละจอ
     "ADB_PATH": "adb", --ที่อยู่ของ Adb.exe สำหรับคนที่ใช้ Emulator อื่น จะAuto Connect localhost:port Adb ให้
