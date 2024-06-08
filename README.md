@@ -4,6 +4,7 @@
 
 # Request
 ติดตั้งpython : https://www.python.org/downloads/
+ตอนนี้รองรับแค่English ไม่รองรับ ภาษา Thai
 
 # How To Install
 1.กดโหลดproject
