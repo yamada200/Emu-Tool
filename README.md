@@ -22,7 +22,7 @@
 
 # Request
 ติดตั้งpython : https://www.python.org/downloads/
-อย่าลืมตอกด้วยนะ
+อย่าลืมติกด้วยนะ
 ![Annotation 2024-06-09 131454](https://github.com/yamada200/Emu-Tool/assets/171811124/f3a75937-e87e-4eac-b07e-694f006dc396)
 
 # How To Install
