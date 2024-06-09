@@ -18,7 +18,7 @@
 
 # คลิปสอนใช้
 
-https://streamable.com/ewy6wk
+รอทำคลิปใหม่ครับ จะสอนแบบดีๆ
 
 # Request
 ติดตั้งpython : https://www.python.org/downloads/
